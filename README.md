@@ -1,75 +1,69 @@
 # DAO LAND
 
-**DAO LAND** is a land-based NFT ecosystem built on Solana, designed to introduce structured digital land ownership, participation, and long-term value generation through governance, utility, and ecosystem alignment.
+**DAO LAND** is a structured digital land ecosystem built on the Solana blockchain.
 
-DAO LAND is not a speculative NFT drop. It is a **phased, utility-driven land framework** designed to grow sustainably over time.
+It introduces a phased approach to digital land ownership where each land represents
+a position within an evolving ecosystem — designed for access, participation,
+and long-term utility rather than short-term speculation.
 
----
+DAO LAND is built with intention:
+- Small initial supply
+- Controlled expansion
+- Utility-driven land activation
+- Governance alignment over time
 
-## 🌍 What Is DAO LAND?
-
-DAO LAND is a collection of on-chain LAND units represented as NFTs. Each LAND functions as a **position within a broader ecosystem**, unlocking access, governance participation, and future land-based utility.
-
-LANDs are released in controlled phases to preserve scarcity, alignment, and long-term value.
-
----
-
-## 🧱 Genesis Phase
-
-- **Genesis Supply:** 50 LANDs  
-- **Minted Initially:** 10 LANDs  
-- **District:** Alpha (Genesis District)
-
-Genesis LAND holders form the foundational layer of the DAO LAND ecosystem and retain priority access to future expansions, governance, and utility activation.
+This repository contains the **official documentation** for the DAO LAND project
+and serves as the single source of truth for its Genesis phase.
 
 ---
 
-## ⚙️ Core Principles
+## 📘 Documentation
 
-- Scarcity before scale  
-- Utility before hype  
-- Governance before expansion  
-- Long-term value over short-term speculation  
+- **Whitepaper v1**  
+  → `/whitepaper`  
+  Defines the vision, land model, governance philosophy, and long-term direction.
 
-DAO LAND is built with intention, structure, and discipline.
+- **Roadmap v1**  
+  → `/roadmap`  
+  Outlines the phased development of land utility, governance, and ecosystem expansion.
 
----
-
-## 🗂 Official Documentation
-
-All official DAO LAND documentation is maintained in this repository:
-
-- 📘 **Whitepaper v1** → `/whitepaper`  
-- 🛣 **Roadmap v1** → `/roadmap`  
-- ⚖️ **Legal Disclaimer** → `/legal`  
-
-These documents define the vision, structure, governance philosophy, and long-term direction of DAO LAND.
+- **Legal Disclaimer**  
+  → `/legal`  
+  Important legal notices, risk disclosures, and participation terms.
 
 ---
 
-## 🛠 Technical Overview
+## 🧱 Genesis Overview
 
-- **Blockchain:** Solana  
-- **NFT Standard:** Metaplex Core (MPL Core)  
-- **Asset Type:** Compressed NFTs  
-- **Metadata Storage:** IPFS  
-- **Minting Strategy:** Controlled & phased  
+- Genesis LAND Supply: **50**
+- Initially Minted: **10**
+- District: **Alpha**
+- Blockchain: **Solana**
+- NFT Standard: **Metaplex Core (Compressed NFTs)**
+
+Genesis LANDs represent the foundational layer of DAO LAND and retain
+priority positioning as the ecosystem expands.
 
 ---
 
-## 🚀 Long-Term Vision
+## 🔍 Project Philosophy
 
-DAO LAND is designed to scale from a Genesis phase into a multi-district ecosystem with up to **1,000 LANDs**, governed by its participants and powered by real utility.
+DAO LAND follows three core principles:
 
-The project evolves through execution, not promises.
+1. **Scarcity before scale**  
+2. **Utility before hype**  
+3. **Structure before expansion**
+
+No phase is rushed. Every activation is intentional.
 
 ---
 
 ## 📌 Status
 
-DAO LAND is currently in the **Genesis Foundation Phase**.
-
-Documentation, infrastructure, and ecosystem structure are actively being established.
+- Genesis phase active  
+- Documentation finalized  
+- Infrastructure stabilized  
+- Utility and governance frameworks in design
 
 ---
 
